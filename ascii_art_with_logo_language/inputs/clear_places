@@ -1,0 +1,6 @@
+5
+CS .;setpc %
+RT 90;FD 3
+RT 90;FD 3
+RT 90;FD 3
+LT 90;FD 3
